@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Build artifacts
+*.exe
+launcher_temp.cs
+
+# Temporary icon files
+pulled_temp.ico
+local_converted_icon.ico
+auto_downloaded_icon.ico
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
