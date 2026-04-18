@@ -2,6 +2,10 @@
 
 A Windows desktop tool that creates **portable shortcut executables** (`.exe`) for any target application. Unlike regular Windows shortcuts (`.lnk`), these launchers search for the target EXE **by name** — so they keep working even if the folder is moved to another drive or computer. Perfect for portable game collections!
 
+> ⚠️ **Warning**
+>
+> Be careful: This project partly uses AI agents.
+> 
 > **⚠️ Note:** If multiple EXE files with the same name exist in subdirectories, the launcher will start whichever one it finds first. Make sure the target EXE name is unique within the folder tree.
 
 ## Features
